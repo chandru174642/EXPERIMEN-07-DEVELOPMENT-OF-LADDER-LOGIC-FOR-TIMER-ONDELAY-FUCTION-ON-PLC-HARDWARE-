@@ -2,7 +2,7 @@
 ### NAME : CHANDRU.P
 ### REG NO : 212223110007
 ### DEPARTMENT : CSE(IOT)
-### DATE : 10-03-2026
+### DATE : 31-08-2026
 
 ### AIM 
 To develop and execute a ladder logic program using an ON-Delay Timer (TON) in Delta SV2 PLC, and observe its behavior on PLC hardware.
